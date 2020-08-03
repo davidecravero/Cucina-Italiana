@@ -1,2 +1,2 @@
 # Cucina-Italiana
-check - simone
+check simone
