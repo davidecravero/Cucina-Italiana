@@ -1,5 +1,9 @@
-
-<<<<<<< HEAD
+#title{
+  height:150px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
 #imgcontainer{
     position: relative;
 }
@@ -147,5 +151,3 @@
     width: 19%;
     display: inline-flex;
   }
-=======
->>>>>>> 2987f8020713e8bb549edbb7dde86d085a9c303b
