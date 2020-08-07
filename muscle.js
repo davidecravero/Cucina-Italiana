@@ -9,3 +9,11 @@ function shareLink(){
 }
 
 share.addEventListener('click', shareLink);
+
+document.getElementById("block5").addEventListener("click", (event) => {
+    document.location.href = "/Users/j/J/Arbeitsagentur/wbs/CODEcamp/Atom/cucina_final/indexrecipe5.html";
+  });
+
+  document.getElementById("block6").addEventListener("click", (event) => {
+    document.location.href = "/Users/j/J/Arbeitsagentur/wbs/CODEcamp/Atom/cucina_final/indexrecipe6.html";
+  });
